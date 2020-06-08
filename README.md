@@ -20,7 +20,7 @@ This tutorial focuses on teaching Git through using the following common approac
 - GitKraken
 - The Terminal / Command Line
 
-This tutorial will teach you how to use Git for personal and team purposes for each of these four approaches. Although it covers all of these approaches, the reader needs to only read those sections that are most relevant to them. For example, if you are interested in using GitHub to store your files online but also want to use the command line for daily use on your computer then feel free to just read the sections about GitHub and the terminal.
+This tutorial will teach you how to use Git for personal and team purposes using each of these approaches. Although it covers all of these approaches, the reader needs to only read those sections that are most relevant to them. For example, if you are interested in using GitHub to store your files online but also want to use the command line for daily use on your computer then feel free to just read the sections about GitHub and the terminal.
 
 # I still have questions or comments
 For questions regarding this tutorial or if you have any recommendations for how to make it even better, feel free to email Mark Anderson at anderson.mark.az@gmail.com. 
