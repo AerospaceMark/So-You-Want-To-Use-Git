@@ -26,6 +26,7 @@ This tutorial will teach you how to use Git for personal and team purposes using
 The following individuals helped with this work by either giving insight, advice, or other help. Other names will be included as they give permission.
 
 - Aaron Vaughn
+- Kevin Leete
 
 # Questions or Comments?
 For questions regarding this tutorial or if you have any recommendations for how to make it even better, feel free to email Mark Anderson at anderson.mark.az@gmail.com. 
