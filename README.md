@@ -1,6 +1,8 @@
 # So, You Want to Use Git?
 This is a Git tutorial for everyone who is either new to Git or has tried to learn and found it confusing, perhaps deciding to learn "some other day". Well, today can be that day!
 
+To get started, click on the "So You Want To Learn Git.pdf" file and then in the new web page that appears click the "Download" button. Welcome to Git!
+
 # Why was this tutorial written?
 Git is a useful tool designed to help you write better code, work with files, and collaborate with others. It does this by keeping track of changes that you make to your files and allowing you to easily access old versions. Git also enables you to work with others on a common project by letting everyone access the files, make improvements, and then merge all the improvements back into the original project. Git is used by individuals, large corporations, and everyone in between.
 
@@ -21,6 +23,11 @@ This tutorial focuses on teaching Git through using the following common approac
 - The Terminal / Command Line
 
 This tutorial will teach you how to use Git for personal and team purposes using each of these approaches. Although it covers all of these approaches, the reader needs to only read those sections that are most relevant to them. For example, if you are interested in using GitHub to store your files online but also want to use the command line for daily use on your computer then feel free to just read the sections about GitHub and the terminal.
+
+# Why Microsoft Word?
+This tutorial is originally written in Microsoft Word. This decision was originally made because future editors are more likely to be proficient in Microsoft Word than LaTeX. However, because .docx documents are not easily converted into plain text files, this Git repository is actually quite large. It is likely that in the future this will be converted into a LaTeX-based project and the repository will be restructured accordingly.
+
+Because this repository is so large, it is recommended that you download only the "So You Want To Use Git.pdf" file by clicking on it and then hitting the download icon.
 
 # Special Thanks
 The following individuals helped with this work by either giving insight, advice, or other help. Other names will be included as they give permission.
