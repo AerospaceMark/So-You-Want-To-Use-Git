@@ -1,7 +1,7 @@
 # So, You Want to Use Git?
 This is a Git tutorial for everyone who is either new to Git or has tried to learn and found it confusing, perhaps deciding to learn "some other day". Well, today can be that day!
 
-To get started, click on the "So You Want To Learn Git.pdf" file and then in the new web page that appears click the "Download" button. Welcome to Git!
+To get started, click on the "So You Want To Use Git.pdf" file and then in the new web page that appears click the "Download" button. Welcome to Git!
 
 # Why was this tutorial written?
 Git is a useful tool designed to help you write better code, work with files, and collaborate with others. It does this by keeping track of changes that you make to your files and allowing you to easily access old versions. Git also enables you to work with others on a common project by letting everyone access the files, make improvements, and then merge all the improvements back into the original project. Git is used by individuals, large corporations, and everyone in between.
