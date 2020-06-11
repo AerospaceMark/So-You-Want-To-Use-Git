@@ -32,6 +32,7 @@ Because this repository is so large, it is recommended that you download only th
 # Special Thanks
 The following individuals helped with this work by either giving insight, advice, or other help. Other names will be included as they give permission.
 
+- Kent Anderson (USAA)
 - Aaron Vaughn (BYU)
 - Kevin Leete (BYU)
 
