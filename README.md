@@ -33,8 +33,9 @@ Because this repository is so large, it is recommended that you download only th
 The following individuals helped with this work by either giving insight, advice, or other help. Other names will be included as they give permission.
 
 - Kent Anderson (USAA)
-- Aaron Vaughn (BYU)
+- David Van Komen (BYU)
 - Kevin Leete (BYU)
+- Aaron Vaughn (BYU)
 
 # Notice
 This tutorial is in no way an official material of Git, GitHub, GitLab, GitKraken, BYU, or any other organization mentioned in the document. It was created by a student at BYU while in a paid research assistant capacity and screenshots include only material that is freely available to Git users. This tutorial is intended to be distributed freely, with version updates available online at https://github.com/Mark-C-Anderson/So-You-Want-To-Use-Git.
