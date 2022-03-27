@@ -43,3 +43,6 @@ This tutorial is in no way an official material of Git, GitHub, GitLab, GitKrake
 
 # Questions or Comments?
 For questions regarding this tutorial or if you have any recommendations for how to make it even better, feel free to email Mark Anderson at anderson.mark.az@gmail.com. 
+
+# Credit to BYU
+I (Mark C. Anderson) created this book while working as a paid student researcher at Brigham Young University (BYU). If this should run into intellectual property issues, I will happily discuss them with BYU. Thanks!
